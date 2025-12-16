@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis-Python-Data-Analysis-Project
+# Blinkit-Sales-Analysis Using Python
 
 # 📊 Blinkit Sales Analysis – Python Project
 
